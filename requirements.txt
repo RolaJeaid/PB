@@ -66,3 +66,4 @@ urllib3==2.2.3
 watchdog==4.0.2
 wcwidth==0.2.13
 xyzservices==2025.1.0
+matplotlib==3.8.3

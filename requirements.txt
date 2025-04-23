@@ -56,6 +56,8 @@ rpds-py==0.20.0
 six==1.16.0
 smmap==5.0.1
 stack-data==0.6.3
+statsforecast==1.6.0
+setuptools==68.2.2
 tenacity==8.5.0
 toml==0.10.2
 tornado==6.4

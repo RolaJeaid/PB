@@ -50,12 +50,12 @@ pytz==2024.2
 pyzmq==25.1.2
 referencing==0.35.1
 requests==2.32.3
-rich==13.8.1
+streamlit==1.29.0
+rich==13.7.1
 rpds-py==0.20.0
 six==1.16.0
 smmap==5.0.1
 stack-data==0.6.3
-streamlit==1.29.0
 tenacity==8.5.0
 toml==0.10.2
 tornado==6.4
